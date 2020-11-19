@@ -1,5 +1,5 @@
 ### Date created
-Data provided by www.motivateco.com for Bicycle-sharing systems
+Data provided by www.motivateco.com a Bicycle-sharing system provider for many major cities in the United States.
 
 ### Project Title
 Bike Share Data
