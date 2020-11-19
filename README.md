@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+Data provided by www.motivateco.com for Bicycle-sharing systems
 
 ### Project Title
-Replace the Project Title
+Bike Share Data
 
 ### Description
-Describe what your project is about and what it does
+Exploring data related to bike share systems for three major cities in US, by computing descriptive statistics.
+
 
 ### Files used
-Include the files used
+bikeshare_2.py
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
