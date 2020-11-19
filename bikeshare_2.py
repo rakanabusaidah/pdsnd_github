@@ -22,7 +22,7 @@ def get_filters():
     city = city.lower()
     cities = ['chicago', 'new york city', 'washington']
     while(city not in cities):
-        city = input('\nSorry! we do not have data in this city! What city you want to explore? Chicago, New york City, Washington.\n')
+        city = input('\nSorry! we do not have data in this {}! What city you want to explore? Chicago, New york City, Washington.\n'.format(city))
     # get user input for month (all, january, february, ... , june)
     month = input('\nWhat month you wanna see? select all if you are not sure!\n')
     month = month.lower()
